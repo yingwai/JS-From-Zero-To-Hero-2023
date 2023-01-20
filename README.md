@@ -1,3 +1,3 @@
 # JS-From-Zero-To-Hero-2023
-Моё резюме для JS From Zero To Hero 2023
+Моё резюме для JS From Zero To Hero 2023 \n
 https://yingwai.github.io/JS-From-Zero-To-Hero-2023/
